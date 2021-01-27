@@ -21,7 +21,7 @@
   b. CTLR + C (to exit)
   
   ```
-  + __Webscrapping script__
++ __Webscrapping script__
 
   1. Run the following command:
   
