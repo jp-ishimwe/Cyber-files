@@ -7,7 +7,7 @@
   ```
   python3 Coordinate.py --IPaddress string-of-IP
   
-  string-of-IP should be in format 128.101.101.101
+  string-of-IP should be in format '128.101.101.101'
   ```
   3. Coordinate .csv file is going to be saved in your working directory
   
