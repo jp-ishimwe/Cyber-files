@@ -1,4 +1,4 @@
-# This are cybersec-files related to finding a physical coordinate for an IPaddress, paketsniffing and webscrapping
+# These are cybersec-files related to finding a physical coordinate for an IP-address, paketsniffing and webscrapping
 
 + __Coordinate script__
   1. Have first the **GeoLiteCity.dat** in your working directory, then
